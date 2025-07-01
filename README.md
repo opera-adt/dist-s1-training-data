@@ -10,4 +10,6 @@ This repository:
 3. Validates and visualizes the sample dataset.
 4. Loads the data files into torch.
 
+## Usage
 
+Go through the notebooks.
