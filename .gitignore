@@ -88,6 +88,10 @@ __pycache__/
 
 # data directories
 out/
+dataset_samples_npz/
+npz_paths/
+test_tiff_patch/
 
 # parquet files
 *.parquet
+!burst_ts.parquet
